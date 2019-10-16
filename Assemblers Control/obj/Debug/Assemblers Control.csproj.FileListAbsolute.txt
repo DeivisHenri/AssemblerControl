@@ -1,0 +1,2 @@
+C:\Users\Deivi\source\repos\AssemblerControl-master\Assemblers Control\obj\Debug\Assemblers Control.csprojAssemblyReference.cache
+C:\Users\Deivi\source\repos\AssemblerControl-master\Assemblers Control\obj\Debug\Assemblers Control.csproj.CoreCompileInputs.cache
